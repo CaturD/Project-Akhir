@@ -31,7 +31,7 @@ with st.sidebar:
     st.title("Caturdianta")
 
     # Logo Image
-    st.image("gcl.png")
+    st.image("./Dashboard/gcl.png")
 
     # Date Range
     start_date, end_date = st.date_input(
